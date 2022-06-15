@@ -1,0 +1,5 @@
+1. To create a new react project :
+    COMMAND : npx create-react-app project_name 
+
+2.To run a react project :
+    COMMAND : npm start
