@@ -1,0 +1,4 @@
+THE components FOLDER IS WHERE WE PUT ALL OUR CUSTOM REACT COMPONENTS INSIDE THEIR OWN FOLDERS.
+
+We can also put all our component files inside src folder but that would make it hard for us to maintain our code when we have
+a lot of components.
