@@ -6,7 +6,7 @@ import CustomComponent from './components/CustomComponent/CustomComponent';
 function App() {
   return (
     <div className="App">
-// Using other react components.
+      {/* Using other react components. */}
         <CustomComponent />
     </div>
   );

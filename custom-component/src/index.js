@@ -19,7 +19,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 // StrictMode is a tool for highlighting potential problems in an application.
   <React.StrictMode>
-// Our room component App.
+    {/* Our room component App. */}
     <App />
   </React.StrictMode>
 );
