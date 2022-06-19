@@ -1,0 +1,12 @@
+.composition-container {
+    padding: 0;
+    margin: 0;
+    background-color: cyan;
+    color: black;
+}
+
+.content {
+    font-size: 1.4rem;
+    color: black;
+    padding: 0.5rem;
+}

@@ -1,0 +1,11 @@
+.arrow-heading {
+    font-size: 1.4rem;
+    color: black;
+    padding: 0.5rem;
+}
+.arrow-container {
+    padding: 0;
+    margin: 0;
+    background-color: palegreen;
+    color: black;
+}

@@ -1,0 +1,13 @@
+.js-container {
+    padding: 2rem;
+    background-color: #FFD700;
+    color: #2C3539;
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.divider {
+    color: #2C3539;
+    border: 0 solid;
+    border-bottom: 2px solid #2C3539;
+}

@@ -1,4 +1,5 @@
 import './App.css';
+// WHILE IMPORTING THE FUCNTION/COMPONENT WE ALSO NEED TO SPECIFY FUNCTION'S NAME INSIDE OF IMPORT STATEMENT.
 import CustomComponent from './components/CustomComponent/CustomComponent';
 
 // The root component.
